@@ -1,1 +1,2 @@
-# AirBnb-Bookings-Analysis-
+# Capstone-1-AirBnb-Bookings-Analysis-Kishan-Hirapara
+We are going to analyse the complete data of Airbnb bookings of NYC 2019. Airbnb Booking Analysis project was done by a group of 2 members- Kishan Hirapara and Krushik Kalavadiya.In this project, we are conducting an analysis of Airbnb bookings using a CSV file as our input data. Our goal is to extract meaningful insights from the data and create charts to aid in making informed business decisions. The project and CSV file are available in the repository.
